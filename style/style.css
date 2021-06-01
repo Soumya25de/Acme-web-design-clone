@@ -1,0 +1,55 @@
+body{
+
+		font-family: Arial,Helvetica,sans-serif;
+	    font-size: 15px;
+	   line-height: 1.5;
+	    padding: 0px;
+
+	    background-color: #f4f4f4;
+   }
+/*Global*/
+   .container
+    {
+   	width: 80%;
+   	margin: auto;
+    overflow: hidden;
+     
+    }
+/*Header*/
+   header
+	   {
+
+	   background-color: #35424a;
+	   padding-left: 50px;
+	   color: #ffffff;
+	   padding-top: 30px;
+	   min-height: 70px;
+	   border-bottom: #e8491d 3px solid;
+	   
+	   }
+
+header ul
+{
+ margin: 0;
+
+ padding: 0;
+
+margin-top: 10px;
+}
+
+	header li
+	{
+
+		float: left;
+
+		display: inline;
+
+		padding: 0 20px 0 20px;
+	     font-size: 16px;
+	}
+
+
+	nav{
+
+		float: right;
+	}
